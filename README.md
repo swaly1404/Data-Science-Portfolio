@@ -7,7 +7,7 @@ Welcome to my data science portfolio! I'm a results-driven Information Science g
 ## Contact Information
 - **Email:** salihfaris@gmail.com
 - **Location:** Hyattsville, MD
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/salih-awel-058072302/)
 
 ## Technical Skills
 
