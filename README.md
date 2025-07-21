@@ -47,7 +47,7 @@ Built an interactive Tableau dashboard analyzing 4 major sports recruiting platf
 - Delivered strategic insights identifying market gaps
 - Published live dashboard demonstrating business intelligence capabilities
 
-**[View Project](#)** *Coming Soon*
+**[View Project](https://github.com/swaly1404/sports-recruiting-platform-analysis)**
 
 ---
 
