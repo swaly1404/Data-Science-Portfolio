@@ -62,7 +62,7 @@ Led a 5-person team to analyze crime data patterns, improving data retrieval eff
 - Built optimized database schema and queries
 - Created comprehensive visualizations revealing crime patterns
 
-**[View Project](#)** *Coming Soon*
+**[View Project](https://github.com/swaly1404/montgomery-county-crime-database-analysis)**
 
 ## Skills Demonstrated
 - **Machine Learning:** Multiple linear regression, model validation, predictive analytics
