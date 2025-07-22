@@ -25,7 +25,7 @@ Welcome to my data science portfolio! I'm a results-driven Information Science g
 **Technologies:** R, Machine Learning, Statistical Analysis  
 **Accuracy:** 75% R-squared
 
-Developed a multiple linear regression model predicting healthcare costs for 1,338 patient records with **75% accuracy**. Key findings revealed that **smoking increases costs by $23,000**.
+I Developed a multiple linear regression model predicting healthcare costs for 1,338 patient records with **75% accuracy**. Key findings revealed that **smoking increases costs by $23,000**.
 
 **Key Achievements:**
 - Implemented comprehensive EDA with data preprocessing
@@ -40,7 +40,7 @@ Developed a multiple linear regression model predicting healthcare costs for 1,3
 **Technologies:** Tableau, Data Analysis, Market Research  
 **Timeline:** Jul 2025
 
-Built an interactive Tableau dashboard analyzing 4 major sports recruiting platforms.
+I Built an interactive Tableau dashboard analyzing 4 major sports recruiting platforms.
 
 **Key Achievements:**
 - Conducted comprehensive market research using multiple data sources
